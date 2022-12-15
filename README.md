@@ -3,6 +3,6 @@ CRUD-Maven-PrimeFaces avaliação
 ### Conexão Hibernate
 #### TOMCAT 9.0
 #### CRUD-Maven-PrimeFaces avaliação 
-#### Eclipse Java(1.8) 
+#### Eclipse Java(11) 
 #### PrimeFaces MySQl
 
